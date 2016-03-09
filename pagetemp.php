@@ -17,7 +17,7 @@ if (!empty($_POST['string'])) {
  
     <p><?php echo $message; ?></p>
  
-    <p><a href="toupper.html">Back to form</a>.</p>
+    <p><a href="pagetemp.html">Back to form</a>.</p>
  
 </body>
 </html>
